@@ -339,61 +339,111 @@
       "id": "typical90_ae",
       "label": "031",
       "title": "VS AtCoder（★6）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ae"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ae",
+      "directory": {
+        "path": "031",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "typical90_af",
       "label": "032",
       "title": "AtCoder Ekiden（★3）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_af"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_af",
+      "directory": {
+        "path": "032",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "typical90_ag",
       "label": "033",
       "title": "Not Too Bright（★2）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ag"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ag",
+      "directory": {
+        "path": "033",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "typical90_ah",
       "label": "034",
       "title": "There are few types of elements（★4）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ah"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ah",
+      "directory": {
+        "path": "034",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "typical90_ai",
       "label": "035",
       "title": "Preserve Connectivity（★7）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ai"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ai",
+      "directory": {
+        "path": "035",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "typical90_aj",
       "label": "036",
       "title": "Max Manhattan Distance（★5）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_aj"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_aj",
+      "directory": {
+        "path": "036",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "typical90_ak",
       "label": "037",
       "title": "Don't Leave the Spice（★5）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ak"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ak",
+      "directory": {
+        "path": "037",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "typical90_al",
       "label": "038",
       "title": "Large LCM（★3）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_al"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_al",
+      "directory": {
+        "path": "038",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "typical90_am",
       "label": "039",
       "title": "Tree Distance（★5）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_am"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_am",
+      "directory": {
+        "path": "039",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "typical90_an",
       "label": "040",
       "title": "Get More Money（★7）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_an"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_an",
+      "directory": {
+        "path": "040",
+        "testdir": "test",
+        "submit": "main.py"
+      }
     },
     {
       "id": "typical90_ao",
