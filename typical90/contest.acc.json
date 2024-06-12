@@ -504,31 +504,56 @@
       "id": "typical90_at",
       "label": "046",
       "title": "I Love 46（★3）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_at"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_at",
+      "directory": {
+        "path": "046",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_au",
       "label": "047",
       "title": "Monochromatic Diagonal（★7）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_au"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_au",
+      "directory": {
+        "path": "047",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_av",
       "label": "048",
       "title": "I will not drop out（★3）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_av"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_av",
+      "directory": {
+        "path": "048",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_aw",
       "label": "049",
       "title": "Flip Digits 2（★6）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_aw"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_aw",
+      "directory": {
+        "path": "049",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_ax",
       "label": "050",
       "title": "Stair Jump（★3）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ax"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ax",
+      "directory": {
+        "path": "050",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_ay",
