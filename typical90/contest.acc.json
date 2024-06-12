@@ -559,31 +559,56 @@
       "id": "typical90_ay",
       "label": "051",
       "title": "Typical Shop（★5）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ay"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ay",
+      "directory": {
+        "path": "051",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_az",
       "label": "052",
       "title": "Dice Product（★3）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_az"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_az",
+      "directory": {
+        "path": "052",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_ba",
       "label": "053",
       "title": "Discrete Dowsing（★7）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ba"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ba",
+      "directory": {
+        "path": "053",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_bb",
       "label": "054",
       "title": "Takahashi Number（★6）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bb"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bb",
+      "directory": {
+        "path": "054",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_bc",
       "label": "055",
       "title": "Select 5（★2）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bc"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bc",
+      "directory": {
+        "path": "055",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_bd",
