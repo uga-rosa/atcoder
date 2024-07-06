@@ -614,19 +614,34 @@
       "id": "typical90_bd",
       "label": "056",
       "title": "Lucky Bag（★5）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bd"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bd",
+      "directory": {
+        "path": "056",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_be",
       "label": "057",
       "title": "Flip Flap（★6）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_be"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_be",
+      "directory": {
+        "path": "057",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_bf",
       "label": "058",
       "title": "Original Calculator（★4）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bf"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bf",
+      "directory": {
+        "path": "058",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "typical90_bg",
